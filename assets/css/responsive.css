@@ -25,14 +25,14 @@
         padding: 15px;
     }
     #footer .socials-list {
-        font-size: 42px;
+        font-size: 32px;
     }
     #footer .socials-list a {
         margin: 0 8px;
     }
     #footer .copyright {
         margin: 25px 0;
-        font-size: 22px;
+        font-size: 16px;
         display: inline-block;
     }
 }
